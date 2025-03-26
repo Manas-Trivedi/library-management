@@ -31,7 +31,7 @@ mvn clean install
 
 ### 3️⃣ Run the Program
 ```bash
-mvn exec:java -Dexec.mainClass="org.example.main.Main"
+mvn exec:java -Dexec.mainClass="org.example.Main"
 ```
 
 ---
